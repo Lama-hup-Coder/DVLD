@@ -67,7 +67,7 @@ namespace DVLD.Licenses
                 return;
             }
 
-            //check the license is not Expired.
+            //check the license is not IsActive.
             if (!ctrlDriverLicenseInfoWithFilter1.SelectedLicenseInfo.IsActive)
             {
                 MessageBox.Show("Selected License is not Not Active, choose an active license." 
