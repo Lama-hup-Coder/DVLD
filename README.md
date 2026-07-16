@@ -29,4 +29,4 @@ The system is built using the **3-Tier Architecture** to ensure separation of co
 * **Detained Licenses:** Managing fines and releases.
 
 ---
-*Developed as part of my Software Engineering training.*
+*I am passionate about building scalable .NET applications. This project is a demonstration of my ability to design clean, maintainable, and efficient systems using professional architectural standards. I am eager to apply these skills to real-world engineering challenges.".*
